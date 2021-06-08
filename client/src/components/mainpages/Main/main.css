@@ -1,0 +1,28 @@
+.main__title {
+  color: rgb(54, 54, 54);
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.main__desription {
+  text-align: center;
+}
+
+.main__start{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 120px;
+    height: 45px;
+    border: 1px solid rgb(105, 105, 255);
+    background: rgb(100, 128, 219);
+    color: white;
+    border-radius: 10px;
+    transition: 0.5s;
+    margin-top: 50px;
+    padding: 10px;
+}
+.main__start:hover{
+    background: rgba(137, 43, 226, 0.486);
+}
